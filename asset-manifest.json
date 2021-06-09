@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/stackoverflow/static/css/main.c470550a.chunk.css",
-    "main.js": "/stackoverflow/static/js/main.7af5202c.chunk.js",
-    "main.js.map": "/stackoverflow/static/js/main.7af5202c.chunk.js.map",
-    "runtime-main.js": "/stackoverflow/static/js/runtime-main.8241ed35.js",
-    "runtime-main.js.map": "/stackoverflow/static/js/runtime-main.8241ed35.js.map",
+    "main.css": "/stackoverflow/static/css/main.091677f6.chunk.css",
+    "main.js": "/stackoverflow/static/js/main.0cb47772.chunk.js",
+    "main.js.map": "/stackoverflow/static/js/main.0cb47772.chunk.js.map",
+    "runtime-main.js": "/stackoverflow/static/js/runtime-main.96c40f61.js",
+    "runtime-main.js.map": "/stackoverflow/static/js/runtime-main.96c40f61.js.map",
     "static/js/2.5bf7e0a1.chunk.js": "/stackoverflow/static/js/2.5bf7e0a1.chunk.js",
     "static/js/2.5bf7e0a1.chunk.js.map": "/stackoverflow/static/js/2.5bf7e0a1.chunk.js.map",
-    "static/js/3.d0314569.chunk.js": "/stackoverflow/static/js/3.d0314569.chunk.js",
-    "static/js/3.d0314569.chunk.js.map": "/stackoverflow/static/js/3.d0314569.chunk.js.map",
     "index.html": "/stackoverflow/index.html",
-    "static/css/main.c470550a.chunk.css.map": "/stackoverflow/static/css/main.c470550a.chunk.css.map",
+    "static/css/main.091677f6.chunk.css.map": "/stackoverflow/static/css/main.091677f6.chunk.css.map",
     "static/js/2.5bf7e0a1.chunk.js.LICENSE.txt": "/stackoverflow/static/js/2.5bf7e0a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8241ed35.js",
+    "static/js/runtime-main.96c40f61.js",
     "static/js/2.5bf7e0a1.chunk.js",
-    "static/css/main.c470550a.chunk.css",
-    "static/js/main.7af5202c.chunk.js"
+    "static/css/main.091677f6.chunk.css",
+    "static/js/main.0cb47772.chunk.js"
   ]
 }
